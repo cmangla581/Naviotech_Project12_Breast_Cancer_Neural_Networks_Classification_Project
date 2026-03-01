@@ -1,6 +1,6 @@
 # Naviotech_Project12_Breast_Cancer_Neural_Networks_Classification_Project
 
-This project consists of the famous Winconsis Breast Cancer Dataset AAnalysis Project where the prediction and the analysis of the breast cancer dataset has been made by using the Artificial Neural Networks. 
+This project consists of the famous Winconsis Breast Cancer Dataset Analysis Project where the prediction and the analysis of the breast cancer dataset has been made by using the Artificial Neural Networks. 
 
 Here the prediction has been made based on 30 features of the dataset which are divided into 30 categories like: 
 
